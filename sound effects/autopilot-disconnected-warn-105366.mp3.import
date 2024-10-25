@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/autopilot-disconnected-warn-105366.mp3-7326505ff04d2a30707eef1a401520d6.mp3str"
+
+[deps]
+
+source_file="res://sound effects/autopilot-disconnected-warn-105366.mp3"
+dest_files=[ "res://.import/autopilot-disconnected-warn-105366.mp3-7326505ff04d2a30707eef1a401520d6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

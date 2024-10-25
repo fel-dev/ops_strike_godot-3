@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/metal-impact-247482.mp3-ff72addad10b0f6adaea397b23b08fdb.mp3str"
+
+[deps]
+
+source_file="res://sound effects/metal-impact-247482.mp3"
+dest_files=[ "res://.import/metal-impact-247482.mp3-ff72addad10b0f6adaea397b23b08fdb.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

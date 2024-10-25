@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/rapid-fire-sub-machine-gun-distant-30193.mp3-fabbc0c9a5115d41f62bac4736163ea4.mp3str"
+
+[deps]
+
+source_file="res://sound effects/rapid-fire-sub-machine-gun-distant-30193.mp3"
+dest_files=[ "res://.import/rapid-fire-sub-machine-gun-distant-30193.mp3-fabbc0c9a5115d41f62bac4736163ea4.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

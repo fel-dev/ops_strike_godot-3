@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/helicopter-blades-64590.mp3-c312276799dbfb5a96c79af5c8c5c0b1.mp3str"
+
+[deps]
+
+source_file="res://sound effects/helicopter-blades-64590.mp3"
+dest_files=[ "res://.import/helicopter-blades-64590.mp3-c312276799dbfb5a96c79af5c8c5c0b1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

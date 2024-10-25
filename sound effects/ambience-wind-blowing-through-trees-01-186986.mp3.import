@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ambience-wind-blowing-through-trees-01-186986.mp3-2e2c8ecb02567ec18b7b9fbeff848e8b.mp3str"
+
+[deps]
+
+source_file="res://sound effects/ambience-wind-blowing-through-trees-01-186986.mp3"
+dest_files=[ "res://.import/ambience-wind-blowing-through-trees-01-186986.mp3-2e2c8ecb02567ec18b7b9fbeff848e8b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

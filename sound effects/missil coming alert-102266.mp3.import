@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/missil coming alert-102266.mp3-dcd9b2e48a0683577c49baad53ee83ef.mp3str"
+
+[deps]
+
+source_file="res://sound effects/missil coming alert-102266.mp3"
+dest_files=[ "res://.import/missil coming alert-102266.mp3-dcd9b2e48a0683577c49baad53ee83ef.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
