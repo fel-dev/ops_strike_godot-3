@@ -1,4 +1,12 @@
-# Download and Setup Instructions
+### Get RIGHT NOW: [new release page](https://github.com/fel-dev/ops_strike_godot-3/releases/tag/v.0.2) !!!
+1. Download [click here](https://github.com/fel-dev/ops_strike_godot-3/releases/download/v.0.2/ops_strike_godot.zip)
+2. Extract
+3. Play
+---
+
+- or click [here to play in the browser mode](https://felcorre.itch.io/ops-strick-godot-3)
+
+# Download and Setup Instructions (dev mode)
 
 1. Download the Repository as a ZIP File:
 
